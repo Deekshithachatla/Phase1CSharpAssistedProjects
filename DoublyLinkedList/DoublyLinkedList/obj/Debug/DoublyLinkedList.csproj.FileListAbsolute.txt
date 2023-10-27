@@ -1,0 +1,7 @@
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

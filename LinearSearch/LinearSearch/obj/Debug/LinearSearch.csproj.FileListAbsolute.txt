@@ -1,0 +1,7 @@
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

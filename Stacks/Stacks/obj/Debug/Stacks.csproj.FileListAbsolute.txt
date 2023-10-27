@@ -1,0 +1,7 @@
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\bin\Debug\Stacks.exe.config
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\bin\Debug\Stacks.exe
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\bin\Debug\Stacks.pdb
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\obj\Debug\Stacks.csproj.AssemblyReference.cache
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\obj\Debug\Stacks.exe
+C:\Users\Deekshitha\Documents\dotnet-csharp\CSharpAssistedProjects\Stacks\Stacks\obj\Debug\Stacks.pdb
